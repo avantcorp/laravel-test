@@ -33,7 +33,7 @@ postcodes.
 - This is a clean/new installation of laravel
 
 - A list of all uk postcodes, with their latitude and longitude can be found in the `postcodes.sql` file.
-  You can import this file into your applications database.
+  You can import this file into your application's database.
 
 - To calculate distance between a pair of lat/lng you can use the formula provided on
   [geodatasource.com/developers/php](https://www.geodatasource.com/developers/php)
